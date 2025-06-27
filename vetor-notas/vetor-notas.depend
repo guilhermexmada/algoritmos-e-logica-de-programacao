@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747442555 source:c:\users\fatec-dsm1\desktop\gsp_dsm1\algoritmo_e_logica\vetor-notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

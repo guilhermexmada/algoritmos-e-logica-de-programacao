@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743804945 source:c:\users\fatec-dsm1\desktop\gsp_dsm1\algoritmo_e_logica\volume_cilindro\main.c
+	<stdio.h>
+	<stdlib.h>
+
